@@ -1,4 +1,3 @@
-public with sharing class AIAnalysis {
-	public class AIAnalysisException extends Exception {}
+public with sharing class AIAnalysis2 {
 	public class AIAnalysisException extends Exception {}
 }
